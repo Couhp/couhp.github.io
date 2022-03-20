@@ -37,6 +37,35 @@ You can try it here:
 <br>
 <br>
 
+## Queena Tower
+
+![](images/queena_01.png)
+
+Dark Tower is a tactical roguelike about saving the princess Milasa II from Razaka devil king after an aghast war between the royal army and dark division.
+
+<b>Challenging gameplay</b>
+You will grab your sword and shield, keep moving into the dark tower where Razaka and his monsters are occupied.
+In your journey, you may pick up many epic items, and besides, there are letters from an anonymous hero that reveal the secret of Razaka the demon king.
+Try to plan your strategy before entering any room, save your stomach from starving, and keep going upward.
+
+<b>Roguelike</b>
+Each run is unique and full of surprises, where monsters and rooms are different from the previous ones.
+Checkpoints will be auto-created each time you pass a floor, so feel free to stop the game when you need to.
+
+
+<a href="https://koticgames.page.link/queenatower_2" rel="">
+<img src="images/playstore.png" alt="drawing" width="120"/>
+</a> 
+
+![](images/queena_02.jpg)
+
+
+
+<br>
+<br>
+<br>
+
+
 ## ENYO
 
 ![](images/enyo.jpg)
